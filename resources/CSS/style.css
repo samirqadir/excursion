@@ -16,17 +16,17 @@ h2 {
   font-size: 42px;
 }
 
-p.download {
+.download {
   color: Aquamarine;
   font-size: 16px
 }
 
-p.description {
+.description {
   color: Gray;
   font-size: 21px
 }
 
-p.footer {
+.footer {
   color: Gray;
   font-size: 21px
   text-align: right;
