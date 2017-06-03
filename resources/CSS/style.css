@@ -1,33 +1,33 @@
+/* Basic style for the page, inclunding descriptive and footer text */
 body {
   background-color: black;
   text-align: center;
   font-family: Verdana;
+  color: Gray;
+  font-size: 21px;
 }
 
+/* Text style for main heading */
 h1 {
   color: White;
   font-weight: normal;
-  font-size: 50px
+  font-size: 50px;
 }
 
+/* Text style for second level headings */
 h2 {
   color: White;
   font-weight: 300;
   font-size: 42px;
 }
 
+/* Text style for download links */
 .download {
   color: Aquamarine;
-  font-size: 16px
+  font-size: 16px;
 }
 
-.description {
-  color: Gray;
-  font-size: 21px
-}
-
+/* Right-justify the footer */
 .footer {
-  color: Gray;
-  font-size: 21px
   text-align: right;
 }
